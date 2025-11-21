@@ -93,17 +93,21 @@ First I load all the list:
 
 <img width="2873" height="1795" alt="image" src="https://github.com/user-attachments/assets/0f2856c4-a4a4-4575-8b90-0f0c26a2953c" />
 
+
 I add a new task:
 
 <img width="2879" height="1799" alt="image" src="https://github.com/user-attachments/assets/502a4cd3-8bf4-4e74-acda-c894e2d285c4" />
+
 
 Then I update that task's title:
 
 <img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/9af188ac-88e2-4e16-bdeb-6ddae8220ed1" />
 
+
 I load that task to see if its title has changed (the id on the url is the id of the above task):
 
 <img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/e2df67de-1158-48ca-a003-44bda2086dc1" />
+
 
 Finally, I delete that task:
 
