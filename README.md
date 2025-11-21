@@ -13,6 +13,10 @@ Users can:
 - Delete tasks
 - Filter tasks by status
 
+<img width="2879" height="1725" alt="image" src="https://github.com/user-attachments/assets/6e93da33-282a-4553-bafd-79c9e5fba36b" />
+
+<img width="2876" height="1717" alt="image" src="https://github.com/user-attachments/assets/d9403e75-f7bc-4375-b517-e8d42b597895" />
+
 ---
 
 ## 1. Technologies and Versions
@@ -53,7 +57,9 @@ Make sure your ConnectionStrings matches the Database and User you just created 
 
 ---
 
-## 3. Running the Backend
+## 3. Run the project 
+
+### 3.1 Backend
 
 ```bash
 cd TaskApi
@@ -61,9 +67,7 @@ dotnet restore
 dotnet run
 ```
 
----
-
-## 4. Running the Frontend
+### 3.2 Frontend
 
 ```bash
 cd task-client
@@ -73,7 +77,7 @@ npm run dev
 
 ---
 
-## 5. API Endpoints
+## 4. API Endpoints
 
 ```
 GET /api/tasks                   # Load all the tasks
@@ -83,6 +87,30 @@ POST /api/tasks                  # Create task
 PUT /api/tasks/{id}              # Update task
 DELETE /api/tasks/{id}           # Delete task
 ```
+<img width="2872" height="1718" alt="image" src="https://github.com/user-attachments/assets/30b334ea-c334-416c-91e2-f4f60e17577b" />
+
+## 5. Test with Postman
+
+First I load all the list:
+
+<img width="2873" height="1795" alt="image" src="https://github.com/user-attachments/assets/0f2856c4-a4a4-4575-8b90-0f0c26a2953c" />
+
+I add a new task:
+
+<img width="2879" height="1799" alt="image" src="https://github.com/user-attachments/assets/502a4cd3-8bf4-4e74-acda-c894e2d285c4" />
+
+Then I update that task's title:
+
+<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/9af188ac-88e2-4e16-bdeb-6ddae8220ed1" />
+
+I load that task to see if its title has changed (the id on the url is the id of the above task):
+
+<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/e2df67de-1158-48ca-a003-44bda2086dc1" />
+
+Finally, I delete that task:
+
+<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/f712626f-1990-4490-adad-df585491c478" />
+
 
 ---
 
