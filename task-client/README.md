@@ -84,6 +84,8 @@ PUT /api/tasks/{id}              # Update task
 DELETE /api/tasks/{id}           # Delete task
 ```
 
+---
+
 ## 6. Author
 
 _Le Tran Kim Oanh - 22127319_
