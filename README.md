@@ -75,8 +75,6 @@ npm install
 npm run dev
 ```
 
----
-
 ## 4. API Endpoints
 
 ```
