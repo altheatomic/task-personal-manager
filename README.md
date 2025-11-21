@@ -55,6 +55,8 @@ FLUSH PRIVILEGES;
 
 Make sure your ConnectionStrings matches the Database and User you just created on **your** Server.
 
+<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/bde4a704-685b-4477-815e-5bf5f6c63831" />
+
 ---
 
 ## 3. Run the project 
