@@ -40,7 +40,7 @@ public class TaskService : ITaskService
             Title = input.Title.Trim(),
             DueDate = input.DueDate,
             Status = "Doing",
-            CreatedAt = DateTime.UtcNow
+            CreatedAt = DateTime.Now
         };
 
         await _repo.AddAsync(entity);
