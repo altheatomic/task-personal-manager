@@ -57,6 +57,9 @@ Make sure your ConnectionStrings matches the Database and User you just created 
 
 <img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/bde4a704-685b-4477-815e-5bf5f6c63831" />
 
+<img width="1496" height="195" alt="image" src="https://github.com/user-attachments/assets/933a2984-a28a-4249-a3a6-5d247a976f24" />
+
+
 ---
 
 ## 3. Run the project 
